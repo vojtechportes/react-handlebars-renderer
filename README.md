@@ -55,7 +55,7 @@ const context: ContextProps = {
   text: 'Lorem Ipsum',
   items: [
     { url: '/abc', items: [
-      { url: '/abc/def },
+      { url: '/abc/def' },
     ] },
     { url: '/foo' },
   ]
@@ -76,7 +76,7 @@ const Foo: React.FC = () => {
   return (
     <Renderer
       context={context}
-      source={cource}
+      source={source}
     />
   )
 
