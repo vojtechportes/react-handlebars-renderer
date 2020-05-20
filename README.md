@@ -1,5 +1,9 @@
 # React Handlebars Renderer
 
+<p align="center">
+<a href="https://www.npmjs.com/package/@vojtechportes/react-handlebars-renderer" target="_blank"><img src="https://badge.fury.io/js/%40vojtechportes%2Freact-handlebars-renderer.svg" alt="npm version" /></a>
+</p>
+
 ## Why?
 
 Because when you need to render externally loaded template (for example one fetched from api), parsing JSX is not very effective and also, there are really no libraries that would allow anonymous functions, arrow functions etc.
