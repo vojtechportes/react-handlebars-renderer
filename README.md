@@ -77,7 +77,7 @@ const Foo: React.FC = () => {
   )
 
   /**
-  Will output to
+  Will output
 
   <p>Lorem Ipsum</p>
   <ul>
