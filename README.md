@@ -15,7 +15,7 @@ That is it.
 
 ## Example
 
-```
+```typescript
 import React from 'react'
 import { Renderer, usePartials, PartialProps } from '@vojtechportes/react-handlebars-renderer'
 
