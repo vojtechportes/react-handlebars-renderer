@@ -53,6 +53,14 @@
     ]
   },
   "name": "@vojtechportes/react-handlebars-renderer",
+  "description": "Simple React Handlebars renderer",
+  "keywords": [
+    "react",
+    "handlebars",
+    "renderer",
+    "templates",
+    "typescript"
+  ],
   "author": {
     "email": "vojtech.v.portes@gmail.com",
     "name": "Vojtech Portes",
